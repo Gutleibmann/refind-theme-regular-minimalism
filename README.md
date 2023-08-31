@@ -76,6 +76,7 @@ The main changes made to the [refind-theme-regular-minimalism](https://github.co
 
 **P.S.:** If you want to use a set of icons other than **128х48**, then you need to do the actions described in paragraph **1.** for the set of icons you selected. It is recommended to use the software **Inkscape** to edit images.
 If at any of the stages you encounter problems - write to me, I will try to help :)  
+  
 **P.S. for OS ElementaryOS users:** To correctly display OS **ElementaryOS** icon, you must remove or change the name of the default icon **VolumeIcon.png**, located in the root directory of the OS file system.  
 **_____________**  
 Best regards,  
@@ -154,6 +155,7 @@ _____________
 
 **P.S.:** Если вы хотите использовать набор иконок отличный от **128х48**, то вам необходимо проделать действия описанные в **п. 1.** для выбранного вами набора иконок. Для редактирования изображений рекомендуется использовать ПО **Inkscape**.  
 Если на каком-то из этапов вы столкнётесь с проблемами - пишите мне, постараюсь помочь :)  
+
 **P.S. для пользователей ОС ElementaryOS:** Для корректного отображения иконки ОС **ElementaryOS** необходимо удалить или изменить название стандартной иконки **VolumeIcon.png**, расположенной в корневой директории файловой системы ОС.  
 **_________________________________**  
 С наилучшими пожеланиями,  

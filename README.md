@@ -2,25 +2,25 @@
 
 For your convenience, the information is in two languages:  
 Для вашего удобства информация изложена на двух языках:  
-** [In English](#In_English)**  
-** [На Русском](#На_Русском)**  
+[In English](#In_English)  
+[На Русском](#На_Русском)  
 
-=========================
-## <a name="In_English"></a> In English ##
---------------------------  
+  
+## <a name="In_English"></a> In English ##  
+
 **rEFInd theme Regular Minimalism** - this is a simplified clean and minimalistic theme for the boot menu [rEFInd](https://www.rodsbooks.com/refind/index.html).
 
 I created my own fork of theme [refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) from [bobafetthotmail](https://github.com/bobafetthotmail), which in turn is a fork that continues the abandoned theme [refind-theme-regular](https://github.com/munlik/refind-theme-regular) from [munlik](https://github.com/munlik).
 
 Screenshot [refind-theme-regular-minimalism](https://github.com/Gutleibmann/refind-theme-regular-minimalism) with OS **Windows 11** and OS **ElementaryOS** installed:
-![Screenshot of the rEFInd boot menu with the refind-theme-regular-minimalism theme set](https://raw.github.com/Gutleibmann/refind-theme-regular-minimalism/master/refind-theme-regular-minimalism=screenshot.png)
+![Screenshot of the rEFInd boot menu with the refind-theme-regular-minimalism theme set](https://raw.github.com/Gutleibmann/refind-theme-regular-minimalism/master/refind-theme-regular-minimalism-screenshot.png)
 
 The main changes made to the [refind-theme-regular-minimalism](https://github.com/Gutleibmann/refind-theme-regular-minimalism) are described below.
 
 ### 1. Differences [refind-theme-regular-minimalism](https://github.com/Gutleibmann/refind-theme-regular-minimalism) from [refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) ###
-**1.1.** Replaced the boot icon OS **Windows 11** from monotone to color in the **128х48** icon set.
-**1.2.** The background of the dark theme has been changed from gray to black (This corrects the "black square" effect of the trobber when loading OS **Windows 11**).
-**1.3.** The background of the download selector has been changed from black to gray (black to black, unfortunately, is not visible :D).
+**1.1.** Replaced the boot icon OS **Windows 11** from monotone to color in the **128х48** icon set.  
+**1.2.** The background of the dark theme has been changed from gray to black (This corrects the "black square" effect of the trobber when loading OS **Windows 11**).  
+**1.3.** The background of the download selector has been changed from black to gray (black to black, unfortunately, is not visible :D).  
 
 ## 2. Configuration settings of the predefined configuration file refind.conf of the boot menu [rEFInd](https://www.rodsbooks.com/refind/index.html)
 **2.1.** The OS selection timeout is set for 30 seconds.
@@ -84,7 +84,7 @@ Gutleibmann.
 
 
 
-**<a name="На Русском"></a>**
+**<a name="На_Русском"></a>**
 
 **rEFInd theme Regular Minimalism** - это упрощённая чистая и минималистичная тема для загрузочного меню [rEFInd](https://www.rodsbooks.com/refind/index.html).
 

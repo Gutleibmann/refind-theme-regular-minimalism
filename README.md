@@ -1,9 +1,9 @@
 # rEFInd theme Regular Minimalism #
 
-For your convenience, the information is in two languages:
-Для вашего удобства информация изложена на двух языках:
-**+ [In English](#In_English)**
-**+ [На Русском](#На_Русском)**
+For your convenience, the information is in two languages:  
+Для вашего удобства информация изложена на двух языках:  
+** [In English](#In_English)**  
+** [На Русском](#На_Русском)**  
 
 =========================
 ## <a name="In_English"></a> In English ##
